@@ -2,4 +2,14 @@
 title: "About"
 ---
 
-About this site
+Hello, this is Yimeng!<br>
+
+I'm backgrond in:<br>
+- Data Analytics for Business<br>
+- Marketing<br>
+- Performance Design<br>
+- Graphic Design<br>
+
+& would like to become a market researcher!
+
+I am currently completing MDS program at UBC<br> Hopefully will graduate in July 2024!
